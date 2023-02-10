@@ -121,11 +121,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-	background-image: url('../assets/asset\ 5.png ');
+	background-image: url('/assets/asset5.png');
 }
 
 .app-download:nth-child(2) {
-	background-image: url('../assets/asset\ 6.png');
+	background-image: url('/assets/asset6.png');
 }
 
 @media (max-width: 1024px) {
